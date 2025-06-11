@@ -29,7 +29,7 @@ This project is part of the **Front End Libraries Certification** by FreeCodeCam
 To run the project locally:
 
 ```bash
-git clone https://github.com/your-username/random-quote-machine.git
-cd random-quote-machine
+git clone https://github.com/Isha2706/FCC_Random-Quote-Machine.git
+cd FCC_Random-Quote-Machine
 npm install
 npm start
